@@ -7,21 +7,25 @@
 ## Education
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| PhD Degree (Majoring in Engineering) | Queensland University of Technology | 2020-Present |
-| Master in Engineering (Majoring in Textile Engineering) | Donghua University, China | 2015-2018 |
-| Bachelor in Engineering (Majoring in Textile Engineering) | MUET Jamshoro, Pakistan | 2011-2014 |
+| PhD Degree in Engineering (Wearabale Batteries) | Queensland University of Technology, Australia | 2020-Present |
+| Master in Engineering (Textile Engineering) | Donghua University, China | 2015-2018 |
+| Bachelor in Engineering (Textile Engineering) | MUET Jamshoro, Pakistan | 2011-2014 |
 
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-|Griffith University      |eResearch Analyst         |2016-Present|
-|QCIF Secondment|eResearch Analyst |2018-Present|
-|Griffith University|Software Engineer |2010-2016|
-|Griffith University|Bioinformatician |2008-2010|
+| Mathematics & English Teacher | Isra Foundation Schools, Hyderabad, Pakistan |July 2019-Feb 2020|
+|English Language Teacher|Eureka! The Institute of English Language, Hyderabad, Pakistan |Apr 2019-Aug 2019|
+|Research Assistant| Nanomaterials Research Laboratory, Mehran University of Engineering & Technology, Jamshoro, Pakistan |Oct 2018-July 2019|
+|Research Assistant| State Key Laboratory for Modification of Chemical Fibers and Polymer Materials, Donghua University, Shanghai, China |Oct 2017-Sept 2018|
+|Public Relations (International)|Donghua University State History Museum, Shanghai, China|Sept 2015-June 2018|
+|Ass. Incharge of Testing Laboratory |Indigo Textile Mill, Karachi, Pakistan |Apr 2015-Aug 2015|
+|Laboratory Assistant and Teacher |Mashal Public School and The American Language Centre, Makli, Thatta, Pakistan |Sep 2007-Dec 2010|
+
 
 ## Skills
 
-- Intermediate skills in:
+- Computer Skills:
   - Python
   - R
   - Linux/Bash
