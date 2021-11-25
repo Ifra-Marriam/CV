@@ -7,9 +7,9 @@
 ## Education
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| Bachelor of Science (Majoring in Bioinformatics) | University of Southern Queensland          | 2003-2007 |
-| Carpentry Instructor | The Carpentries | 2015 |
-| Agile Business Analysis Foundation Course | DDLS Brisbane | 2018 |
+| PhD Degree (Majoring in Engineering) | Queensland University of Technology | 2020-Present |
+| Master in Engineering (Majoring in Textile Engineering) | Donghua University, China | 2015-2018 |
+| Bachelor in Engineering (Majoring in Textile Engineering) | MUET Jamshoro, Pakistan | 2011-2014 |
 
 ## Employment
 
